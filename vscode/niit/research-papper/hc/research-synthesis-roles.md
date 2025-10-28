@@ -15,22 +15,22 @@ This document presents validated research findings on AI's transformative impact
 
 ---
 
-## 🩺 Five Workforce Pillars of AI-Augmented Roles
+##  Five Workforce Pillars of AI-Augmented Roles
 
 | **Pillar** | **Description** | **Example Roles** |
 |-------------|-----------------|-------------------|
-| 🧾 **Administrative** | Streamlining operations, compliance, and revenue optimization across non-clinical processes. | *Revenue Cycle Analyst, CDI Co-Pilot, Compliance Automation Specialist* |
-| ❤️ **Patient Experience & Risk Cover** | Enhancing patient engagement, claims efficiency, and personalized care journeys. | *AI Claims Auditor, Virtual Health Concierge, Predictive Underwriter* |
-| ⚙️ **Technology & Infrastructure** | Building interoperable data systems, automation, and AI governance layers. | *IoMT Engineer, Data Steward, AI Governance Lead* |
-| 🧬 **Research** | Driving AI-enabled R&D, trials, and health data analytics. | *Drug Discovery Modeler, Trial Data Curator, Pharmacovigilance Analyst* |
-| 🚀 **Strategy & Growth** | Defining AI adoption strategy, innovation, and organizational transformation. | *AI Transformation Lead, Product Innovation Manager* |
+|  **Administrative** | Streamlining operations, compliance, and revenue optimization across non-clinical processes. | *Revenue Cycle Analyst, CDI Co-Pilot, Compliance Automation Specialist* |
+|  **Patient Experience & Risk Cover** | Enhancing patient engagement, claims efficiency, and personalized care journeys. | *AI Claims Auditor, Virtual Health Concierge, Predictive Underwriter* |
+|  **Technology & Infrastructure** | Building interoperable data systems, automation, and AI governance layers. | *IoMT Engineer, Data Steward, AI Governance Lead* |
+|  **Research** | Driving AI-enabled R&D, trials, and health data analytics. | *Drug Discovery Modeler, Trial Data Curator, Pharmacovigilance Analyst* |
+|  **Strategy & Growth** | Defining AI adoption strategy, innovation, and organizational transformation. | *AI Transformation Lead, Product Innovation Manager* |
 
 > **Insight:**
 > These pillars align with IBM IBV (2025) findings that non-clinical AI adoption will outpace clinical automation, particularly in operations and compliance domains. The 40% reskilling need directly impacts efficiency and revenue optimization roles across all five pillars.
 
 ---
 
-## 🌐 Role Distribution Across Healthcare Sectors
+##  Role Distribution Across Healthcare Sectors
 
 | **Sector** | **Administrative** | **Patient / Risk Cover** | **Technology & Infrastructure** | **Research** | **Strategy & Growth** |
 |-------------|-------------------|---------------------------|----------------------------------|--------------|-----------------------|
@@ -46,7 +46,7 @@ This document presents validated research findings on AI's transformative impact
 
 ---
 
-## 🆙 Emerging Roles: AI-Augmented Workforce
+##  Emerging Roles: AI-Augmented Workforce
 
 ### 1. AI Claims Auditor
 **Pillar:** Patient Experience & Risk Cover | **Confidence Level:** 82%
