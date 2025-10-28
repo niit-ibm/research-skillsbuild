@@ -4,7 +4,7 @@
 **Research Framework:** "IBM_WhitePaper_AI_Augmented Roles_Workforce Development_Sector Selection"
 **Scope:** Technology Impact and Evolution for Providers, Payers, Pharma, MedTech, Public Health
 **Contributors:** Kiran, Aarthi, Gautam
-**Reviewers:** Bala, Reena, Nandita
+**Reviewers:** Bala,Vivek, Reena, Nandita,
 
 ---
 
