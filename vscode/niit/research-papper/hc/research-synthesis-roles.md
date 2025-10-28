@@ -38,13 +38,6 @@ This document presents validated research findings on AI's transformative impact
 - **54%** lack internal capabilities to deliver, deploy, and scale AI systems
 - **61%** partner with third-party vendors to co-develop tailored GenAI solutions
 
-**Market Growth:**
-- Healthcare analytics market: **$12B (2019) → $40B (2025)**
-- Global EdTech spending: **$164B (2024) → $350-400B (2030)**
-- Healthcare data scientist positions: **18,000+** active roles in the United States
-
-**Overall Validation Confidence: 88%**
-
 ---
 
 ## 🩺 Five Workforce Pillars of AI-Augmented Roles
