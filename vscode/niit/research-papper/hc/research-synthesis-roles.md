@@ -122,20 +122,18 @@ This table maps emerging non-clinical healthcare roles to U.S. Bureau of Labor S
 
 ---
 
-
-
 ## 💼 Insurance & Claims–Related Roles
 
-| **Role Title** | **Category (BLS / IBM Framework)** | **AI Augmentation Potential** | **AI-Augmented Tasks** | **Skill Gap / Upskilling Needs** |
-|----------------|------------------------------------|-------------------------------|-------------------------|----------------------------------|
-| **Claims Adjusters, Examiners, and Investigators** | Finance & Banking → Insurance Operations | **High** | Automating claims triage, AI-based fraud detection, image-based damage estimation | Data literacy, risk analytics, fraud-model interpretation |
-| **Insurance Underwriters** | Finance & Banking | **High** | AI-assisted underwriting and predictive risk modeling | Statistical reasoning, ML fundamentals, explainable AI |
-| **Insurance Appraisers (Auto Damage)** | Finance & Banking → InsurTech | **Moderate** | Computer-vision-based assessment, automated repair-cost prediction | Computer vision, model evaluation |
-| **Insurance Claims and Policy Processing Clerks** | Administrative Support → Insurance Services | **High** | Document AI for policy validation, automated form extraction | RPA, LLM-based document automation |
-| **Insurance Sales Agents** | Financial Advisory / Customer Service | **Moderate** | AI-driven CRM, GenAI-based personalization, lead scoring | Prompt engineering, conversational AI, data privacy |
-| **Actuaries** | Quantitative Finance / Insurance Analytics | **Very High** | AI modeling, predictive analytics for risk pricing | Model interpretability, AI ethics, advanced analytics |
-| **Risk / Compliance Analysts (Insurance)** | Risk & Compliance Management | **High** | AI for regulatory scanning, anomaly detection in claims | Governance frameworks (OpenPages), AI risk assessment |
-| **Customer Service Representatives (Insurance Domain)** | Customer Support Operations | **High** | GenAI-powered claims chatbots, multilingual response automation | Conversational design, NLP, AI fairness & trust |
+| **BLS Code (2024 SOC)** | **Role Title** | **Category (BLS / IBM Framework)** | **AI Augmentation Potential** | **AI-Augmented Tasks** | **Skill Gap / Upskilling Needs** |
+|--------------------------|----------------|------------------------------------|-------------------------------|-------------------------|----------------------------------|
+| **13-1031** | Claims Adjusters, Examiners, and Investigators | Finance & Banking → Insurance Operations | **High** | AI-driven claims triage, fraud detection, image-based damage estimation | Data literacy, risk analytics, fraud-model interpretation |
+| **13-2053** | Insurance Underwriters | Finance & Banking | **High** | AI-assisted underwriting, predictive risk modeling | Statistical reasoning, ML fundamentals, explainable AI |
+| **13-1032** | Insurance Appraisers, Auto Damage | Finance & Banking → InsurTech | **Moderate** | Computer-vision-based damage assessment, repair-cost prediction | Computer vision basics, model evaluation |
+| **43-9041** | Insurance Claims and Policy Processing Clerks | Administrative Support → Insurance Services | **High** | Document AI for policy validation, automated form extraction | Workflow automation (RPA), GenAI document processing |
+| **41-3021** | Insurance Sales Agents | Financial Advisory / Customer Service | **Moderate** | AI-driven CRM, personalized recommendations using GenAI | Prompt engineering, conversational AI, data privacy |
+| **15-2041** | Actuaries | Quantitative Finance / Insurance Analytics | **Very High** | AI modeling, predictive analytics for risk pricing and portfolio management | Model interpretability, ethics in AI, advanced analytics |
+| **13-2099** | Risk / Compliance Analysts (Insurance) | Risk & Compliance Management | **High** | AI for regulatory scanning, anomaly detection in claims and reporting | Governance frameworks (OpenPages), data ethics, AI risk assessment |
+| **43-4051** | Customer Service Representatives (Insurance Domain) | Customer Support Operations | **High** | GenAI-based claims chatbots, multilingual response automation | Conversational design, NLP, AI trust & fairness |
 
 ---
 
@@ -155,10 +153,10 @@ This table maps emerging non-clinical healthcare roles to U.S. Bureau of Labor S
 
 | **Cluster** | **Representative Roles** | **Learning Focus** |
 |--------------|---------------------------|--------------------|
-| **Claims Automation & Processing** | Claims Adjusters, Policy Processing Clerks | Document AI, RPA, LLM-based form extraction |
-| **Underwriting & Risk Modeling** | Underwriters, Actuaries | Predictive analytics, AI model governance |
+| **Claims Automation & Processing** | Claims Adjusters, Policy Clerks | Document AI, RPA, LLM-based form extraction |
+| **Underwriting & Risk Modeling** | Underwriters, Actuaries | Predictive analytics, model governance |
 | **Compliance & Fraud Analytics** | Risk / Compliance Analysts | AI risk scoring, OpenPages integration, Responsible AI |
-| **AI-Enabled Customer Engagement** | Insurance Sales Agents, Customer Service Reps | GenAI assistants, conversational AI, personalization |
+| **AI-Enabled Customer Engagement** | Insurance Sales Agents, CSR (Insurance) | GenAI assistants, conversational AI, personalization |
 
 ---
 
