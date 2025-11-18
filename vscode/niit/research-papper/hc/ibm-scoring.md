@@ -179,18 +179,12 @@ Analyzed occupation skills and titles for alignment with IBM AI capabilities:
 - **Health Information Technologists and Medical Registrars** (29-9021)
   - Potential: Healthcare AI, Data Management, Document AI
 
-- **Pharmacy Technicians** (29-2052)
-  - Potential: Finance Automation, Data Management
-
-- **Healthcare Social Workers** (21-1022)
-  - Potential: Healthcare AI, Data Management
-
 ### Executive & Management
 - **Chief Executives** (11-1011)
-  - Potential: Finance Automation, HR Automation, Analytics & BI
+  - Potential: Analytics & BI
 
 - **Facilities Managers** (11-3013)
-  - Potential: Finance Automation, HR Automation, Document AI
+  - Potential: Finance Automation, Document AI
 
 - **Administrative Services Managers** (11-3012)
   - Potential: Finance Automation, Data Management
